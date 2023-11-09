@@ -1,0 +1,66 @@
+{
+	"tools":
+		[
+			{
+				"url" : "https://www.photopea.com/",
+				"title" : "Photopea",
+				"description" : "Graphics editor similar to Photoshop"
+			},
+			{
+				"url" : "https://ezgif.com/",
+				"title" : "ezgif",
+				"description" : "Create and edit gifs"
+			},
+			{
+				"url" : "https://zalgo.org/",
+				"title" : "Zalgo Text Generator",
+				"description" : "Makes text ă̶͖͝ͅw̶̮͐ę̴͚̍̐s̵̟͆̋ò̶̯m̴̑͜é̶̡"
+			},
+			{
+				"url" : "https://cable.ayra.ch/zalgo/",
+				"title" : "Zalgo Text Remover",
+				"description" : "Un-zalgos text"
+			},
+			{
+				"url" : "https://waifu2x.udp.jp/",
+				"title" : "waifu2x",
+				"description" : "Upscale images"
+			}
+		],
+	"games":
+		[
+			{
+				"url" : "https://minesweeper.online/",
+				"title" : "Minesweeper Online",
+				"description" : "Minesweeper game"
+			},
+			{
+				"url" : "https://powerline.io/",
+				"title" : "Powerline.io",
+				"description" : "Basically tron"
+			},
+			{
+				"url" : "https://sudoku.com/",
+				"title" : "Sudoku",
+				"description" : "Number game"
+			},
+			{
+				"url" : "https://www.coolmathgames.com/0-run-3/play",
+				"title" : "Run 3",
+				"description" : "Good runner game"
+			}
+		],
+	"awesome":
+		[
+			{
+				"url" : "https://gamer.cat/",
+				"title" : "Gamercat",
+				"description" : ":3"
+			},
+			{
+				"url" : "https://sorlag.com/",
+				"title" : "Sorlag",
+				"description" : "#1 sorlag fan page"
+			}
+		]
+}
