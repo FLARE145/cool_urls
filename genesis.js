@@ -19,6 +19,7 @@ function theSecondDay(){
 	summonUrlList('tools');
 	summonUrlList('games');
 	summonUrlList('awesome');
+	summonUrlList('miscellaneous');
 };
 
 //poplates a list with the stuffs

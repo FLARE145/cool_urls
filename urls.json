@@ -25,6 +25,11 @@
 				"url" : "https://waifu2x.udp.jp/",
 				"title" : "waifu2x",
 				"description" : "Upscale images"
+			},
+			{
+				"url" : "https://www.pixilart.com/draw",
+				"title" : "Pixilart",
+				"description" : "Draw pixel art"
 			}
 		],
 	"games":
@@ -61,6 +66,34 @@
 				"url" : "https://sorlag.com/",
 				"title" : "Sorlag",
 				"description" : "#1 sorlag fan page"
+			},
+			{
+				"url" : "https://weedsoldiertf2.com/",
+				"title" : "weedsoldiertf2.com",
+				"description" : "weedsoldiertf2.com"
+			}
+		],
+	"miscellaneous":
+		[
+			{
+				"url" : "https://www.steamgriddb.com/",
+				"title" : "SteamGridDB",
+				"description" : "custom steam/gog library assets"
+			},
+			{
+				"url" : "https://www.bumpworthy.com/",
+				"title" : "[bump worthy]",
+				"description" : "Library of adult swim bumps"
+			},
+			{
+				"url" : "https://mynoise.net/",
+				"title" : "myNoise",
+				"description" : "Ambient noise mixer"
+			},
+			{
+				"url" : "https://mrdoob.com/",
+				"title" : "Mr.doob",
+				"description" : "Interactive web toys"
 			}
 		]
 }
