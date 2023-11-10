@@ -15,10 +15,10 @@ function theFirstDay(){
 
 function theSecondDay(){
 	//categorys maybe shouldnt be hardcoded but here we are
+	tagline();
 	summonUrlList('tools');
 	summonUrlList('games');
 	summonUrlList('awesome');
-	tagline();
 };
 
 //poplates a list with the stuffs
@@ -65,7 +65,7 @@ function tagline(){
 		"Explore the Internet!",
 		"Welcome to the collection",
 		"A shelter from google search",
-		"crtl+f for quicker navigation",
+		"ctrl+f for quicker navigation",
 		"Return to cool",
 		"For cool people",
 		"Shhhhhh...",
@@ -74,7 +74,7 @@ function tagline(){
 		"Apathy's a tradgedy and boredom is a crime",
 		"Lose track of time",
 		"Here to kill time?",
-		"by FLARE145:",
+		"by FLARE145",
 		"Rediscover the web",
 		"The coconut knows when to grow",
 		"Knowledge is power",
@@ -86,7 +86,26 @@ function tagline(){
 		"Certified cool",
 		"Cool as a cucumber",
 		"I wish that I could be like the cool kids",
-		"Otherwise known as cool links"
+		"Otherwise known as cool links",
+		"Sharing is caring",
+		"U R reaL",
+		"For when you're feeling real clicky",
+		"The internet's stinky living room",
+		"Malware's strongest soldier",
+		"Like a worse spreadsheet",
+		"How you like the selection?",
+		"Fighting the dead internet",
+		"Cyberspace set free",
+		"Feel free to bookmark",
+		"Search engines are for losers",
+		"Being here since 2023",
+		"Launched on 11/9/23 or 9/11/23 we aren't sure",
+		"Thanks for visiting",
+		"The world wide doorstep",
+		"Maintained by a human",
+		"and in no particular order",
+		"and where to find them",
+		"What is this? Some kind of Link to the Past?"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
