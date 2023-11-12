@@ -106,7 +106,8 @@ function tagline(){
 		"Maintained by a human",
 		"and in no particular order",
 		"and where to find them",
-		"What is this? Some kind of Link to the Past?"
+		"What is this? Some kind of Link to the Past?",
+		"real ones remember the underscore"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
