@@ -4,7 +4,7 @@
 			{
 				"url" : "https://www.photopea.com/",
 				"title" : "Photopea",
-				"description" : "Graphics editor similar to Photoshop"
+				"description" : "Photo editor similar to Photoshop"
 			},
 			{
 				"url" : "https://ezgif.com/",
@@ -13,7 +13,7 @@
 			},
 			{
 				"url" : "https://zalgo.org/",
-				"title" : "Zalgo Text Generator",
+				"title" : "Zalgo Text",
 				"description" : "Makes text ă̶͖͝ͅw̶̮͐ę̴͚̍̐s̵̟͆̋ò̶̯m̴̑͜é̶̡"
 			},
 			{
@@ -54,8 +54,8 @@
 		[
 			{
 				"url" : "https://gamer.cat/",
-				"title" : "Gamercat",
-				"description" : ":3"
+				"title" : "Gamer Cat",
+				"description" : "this cat is gaming"
 			},
 			{
 				"url" : "https://sorlag.com/",
@@ -64,7 +64,7 @@
 			},
 			{
 				"url" : "https://weedsoldiertf2.com/",
-				"title" : "weedsoldiertf2.com",
+				"title" : "Weed Soldier TF2",
 				"description" : "weedsoldiertf2.com"
 			}
 		],
@@ -73,7 +73,7 @@
 			{
 				"url" : "https://www.steamgriddb.com/",
 				"title" : "SteamGridDB",
-				"description" : "custom steam/gog library assets"
+				"description" : "Custom steam/gog library assets"
 			},
 			{
 				"url" : "https://www.bumpworthy.com/",
