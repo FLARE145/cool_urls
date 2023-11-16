@@ -60,6 +60,8 @@ function randomLink(){
 function tagline(){
 	let taglines = [
 		"A website where you can find links to cool stuff online",
+		"Links to websites that are helpful, fun, or otherwise cool.",
+		"Dedicated to collecting useful or interesting websites into one place.",
 		"Do you remember when the internet was cool? Me neither",
 		"Surf the web",
 		"URL stands for Uniform Resource Locater",
@@ -107,7 +109,17 @@ function tagline(){
 		"and in no particular order",
 		"and where to find them",
 		"What is this? Some kind of Link to the Past?",
-		"real ones remember the underscore"
+		"real ones remember the underscore",
+		"I just got tired of the bookmarks bar okay?",
+		"The internet never sleeps",
+		"For when you just don't know what to do",
+		"The web if it was good",
+		"Like a map of the web if maps sucked",
+		"Now with more taglines than urls!",
+		"Everyone's favorite worst idea",
+		"What? I like lists",
+		"Ahead of it's time? Too late for it's time?",
+		"Send to your friends but only cool people allowed"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
