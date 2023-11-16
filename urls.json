@@ -25,6 +25,11 @@
 				"url" : "https://www.pixilart.com/draw",
 				"title" : "Pixilart",
 				"description" : "Draw pixel art"
+			},
+			{
+				"url" : "https://www.mapdevelopers.com/distance_finder.php",
+				"title" : "Google Maps Distance Calculator",
+				"description" : "Calculate distance between multiple points on a map"
 			}
 		],
 	"games":
@@ -48,6 +53,11 @@
 				"url" : "https://www.coolmathgames.com/0-run-3/play",
 				"title" : "Run 3",
 				"description" : "Good runner game"
+			},
+			{
+				"url" : "https://www.decisionproblem.com/paperclips/",
+				"title" : "Universal Paperclips",
+				"description" : "Best clicker game"
 			}
 		],
 	"awesome":
@@ -89,6 +99,11 @@
 				"url" : "https://mrdoob.com/",
 				"title" : "Mr.doob",
 				"description" : "Interactive web toys"
+			},
+			{
+				"url" : "https://incompetech.com/",
+				"title" : "incompetech",
+				"description" : "Music and also graph paper"
 			}
 		]
 }
