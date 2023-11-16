@@ -65,11 +65,11 @@ h3{
 
 
 .titleTupper{
-	min-width: 200px;
+	width: 200px;
 }
 
 .descriptionTupper{
-	min-width: 340px;
+	width: 340px;
 }
 .descriptionTupper p{
 	color: #4f8b64 !important;
