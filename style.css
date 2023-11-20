@@ -52,27 +52,44 @@ h3{
 .entryTupper{
 	margin-bottom: 2px;
 	display: flex;
-	flex-wrap: wrap;
+	/*flex-wrap: wrap;*/
 	border-bottom: dotted;
 	border-color: #314f30;
 	justify-content: space-between;
 }
 
 .urlTupper{
-	width: 340px;
+	width: 400px;
 	word-wrap: break-word;
 }
 
-
 .titleTupper{
-	width: 200px;
+	width: 250px;
 }
 
 .descriptionTupper{
-	width: 340px;
+	width: 500px;
 }
 .descriptionTupper p{
 	color: #4f8b64 !important;
+}
+
+@media screen and (max-width: 1135px) {
+	.entryTupper{
+		flex-direction: column;
+	}
+	.urlTupper{
+		max-width: -webkit-fill-available;
+		max-width: -moz-available
+	}
+	.titleTupper{
+		max-width: -webkit-fill-available;
+		max-width: -moz-available
+	}
+	.descriptionTupper{
+		max-width: -webkit-fill-available;
+		max-width: -moz-available
+	}
 }
 
 .fakeLink{
