@@ -60,6 +60,24 @@
 				"description" : "Best clicker game"
 			}
 		],
+	"toybox":
+		[
+			{
+				"url" : "https://mrdoob.com/",
+				"title" : "Mr.doob",
+				"description" : "Interactive web toys"
+			},
+			{
+				"url" : "https://neal.fun/",
+				"title" : "Neal.fun",
+				"description" : "Tiny projects by neal"
+			},
+			{
+				"url" : "https://toms.toys/",
+				"title" : "Toms Toys",
+				"description" : "Tom's games and web experiments"
+			}
+		],
 	"awesome":
 		[
 			{
@@ -96,14 +114,14 @@
 				"description" : "Ambient noise mixer"
 			},
 			{
-				"url" : "https://mrdoob.com/",
-				"title" : "Mr.doob",
-				"description" : "Interactive web toys"
-			},
-			{
 				"url" : "https://incompetech.com/",
 				"title" : "incompetech",
 				"description" : "Music and also graph paper"
+			},
+			{
+				"url" : "https://neocities.org/",
+				"title" : "Neocities",
+				"description" : "Create free websites and browse others"
 			}
 		]
 }

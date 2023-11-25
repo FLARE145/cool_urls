@@ -18,6 +18,7 @@ function theSecondDay(){
 	tagline();
 	summonUrlList('tools');
 	summonUrlList('games');
+	summonUrlList('toybox');
 	summonUrlList('awesome');
 	summonUrlList('miscellaneous');
 };
@@ -119,7 +120,10 @@ function tagline(){
 		"Everyone's favorite worst idea",
 		"What? I like lists",
 		"Ahead of it's time? Too late for it's time?",
-		"Send to your friends but only cool people allowed"
+		"Send to your friends but only cool people allowed",
+		"Includes a toybox of toyboxes",
+		"From creator who watched Shrek",
+		"A small url shopping center but everything is free"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
