@@ -125,7 +125,8 @@ function tagline(){
 		"From creator who watched Shrek",
 		"A small url shopping center but everything is free",
 		"The (not) hidden wiki",
-		"Not quite off the grid but like, not quite on it"
+		"Not quite off the grid but like, not quite on it",
+		"You can write them down for a hard copy!"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };

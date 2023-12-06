@@ -68,6 +68,11 @@
 				"url" : "https://www.decisionproblem.com/paperclips/",
 				"title" : "Universal Paperclips",
 				"description" : "Best clicker game"
+			},
+			{
+				"url" : "https://mitxela.com/pong/",
+				"title" : "WebRTC Pong",
+				"description" : "P2P Multiplayer Pong"
 			}
 		],
 	"toybox":
