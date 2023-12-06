@@ -30,6 +30,16 @@
 				"url" : "https://www.mapdevelopers.com/distance_finder.php",
 				"title" : "Google Maps Distance Calculator",
 				"description" : "Calculate distance between multiple points on a map"
+			},
+			{
+				"url" : "https://www.worldtimebuddy.com/",
+				"title" : "World Time Buddy",
+				"description" : "Time converter and world clock"
+			},
+			{
+				"url" : "https://tineye.com/",
+				"title" : "TinEye",
+				"description" : "Reverse image search"
 			}
 		],
 	"games":

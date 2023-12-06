@@ -123,7 +123,9 @@ function tagline(){
 		"Send to your friends but only cool people allowed",
 		"Includes a toybox of toyboxes",
 		"From creator who watched Shrek",
-		"A small url shopping center but everything is free"
+		"A small url shopping center but everything is free",
+		"The (not) hidden wiki",
+		"Not quite off the grid but like, not quite on it"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
