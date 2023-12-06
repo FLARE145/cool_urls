@@ -21,6 +21,7 @@ function theSecondDay(){
 	summonUrlList('toybox');
 	summonUrlList('awesome');
 	summonUrlList('miscellaneous');
+	urlCount();
 };
 
 //poplates a list with the stuffs
@@ -50,6 +51,12 @@ function summonUrlList(category){
 		entryTupper.appendChild(description);
 		categoryTupper.appendChild(entryTupper);
 	};
+};
+
+//shows total URL count
+function urlCount(){
+	let p = document.getElementById('urlCount');
+	p.innerHTML = 'Current URL Count: ' + uncategorizedList.length;
 };
 
 //does the random button at the bottom
