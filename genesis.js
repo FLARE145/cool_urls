@@ -134,7 +134,8 @@ function tagline(){
 		"The (not) hidden wiki",
 		"Not quite off the grid but like, not quite on it",
 		"You can write them down for a hard copy!",
-		"I just kept forgetting them you know?"
+		"I just kept forgetting them you know?",
+		"The place to be if you want to be elsewhere"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };

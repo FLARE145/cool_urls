@@ -40,6 +40,11 @@
 				"url" : "https://tineye.com/",
 				"title" : "TinEye",
 				"description" : "Reverse image search"
+			},
+			{
+				"url" : "https://cobalt.tools/",
+				"title" : "Cobalt",
+				"description" : "Save video, audio, and gifs from various sources"
 			}
 		],
 	"games":
