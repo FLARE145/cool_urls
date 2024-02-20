@@ -135,7 +135,9 @@ function tagline(){
 		"Not quite off the grid but like, not quite on it",
 		"You can write them down for a hard copy!",
 		"I just kept forgetting them you know?",
-		"The place to be if you want to be elsewhere"
+		"The place to be if you want to be elsewhere",
+		"Has anyone seen my day? I think I lost it around here",
+		"No, the taglines are not cringe. You are just lame"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };

@@ -45,6 +45,11 @@
 				"url" : "https://cobalt.tools/",
 				"title" : "Cobalt",
 				"description" : "Save video, audio, and gifs from various sources"
+			},
+			{
+				"url" : "https://www.calculator.net/",
+				"title" : "Calculator.net",
+				"description" : "Collection of calculators on math, finance, fitness, and more"
 			}
 		],
 	"games":
