@@ -137,7 +137,9 @@ function tagline(){
 		"I just kept forgetting them you know?",
 		"The place to be if you want to be elsewhere",
 		"Has anyone seen my day? I think I lost it around here",
-		"No, the taglines are not cringe. You are just lame"
+		"No, the taglines are not cringe. You are just lame",
+		"Also try Minecraft!",
+		"Also try Terraria!"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };

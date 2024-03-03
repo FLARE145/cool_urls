@@ -50,6 +50,11 @@
 				"url" : "https://www.calculator.net/",
 				"title" : "Calculator.net",
 				"description" : "Collection of calculators on math, finance, fitness, and more"
+			},
+			{
+				"url" : "https://donatstudios.com/PixelCircleGenerator",
+				"title" : "Donat Studios Pixel Circle Generator",
+				"description" : "Circle Generator for help building shapes in games such as Minecraft"
 			}
 		],
 	"games":
