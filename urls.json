@@ -55,6 +55,11 @@
 				"url" : "https://donatstudios.com/PixelCircleGenerator",
 				"title" : "Donat Studios Pixel Circle Generator",
 				"description" : "Circle Generator for help building shapes in games such as Minecraft"
+			},
+			{
+				"url" : "https://doodad.dev/dither-me-this/",
+				"title" : "Dither Me This",
+				"description" : "Online Image Dithering Tool"
 			}
 		],
 	"games":

@@ -139,7 +139,8 @@ function tagline(){
 		"Has anyone seen my day? I think I lost it around here",
 		"No, the taglines are not cringe. You are just lame",
 		"Also try Minecraft!",
-		"Also try Terraria!"
+		"Also try Terraria!",
+		"Because I kept forgetting them"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
