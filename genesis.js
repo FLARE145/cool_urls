@@ -129,7 +129,7 @@ function tagline(){
 		"Ahead of it's time? Too late for it's time?",
 		"Send to your friends but only cool people allowed",
 		"Includes a toybox of toyboxes",
-		"From creator who watched Shrek",
+		"From the creator who watched Shrek",
 		"A small url shopping center but everything is free",
 		"The (not) hidden wiki",
 		"Not quite off the grid but like, not quite on it",
