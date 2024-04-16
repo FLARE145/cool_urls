@@ -162,6 +162,11 @@
 				"url" : "https://bigboxcollection.com/",
 				"title" : "Big Box Collection",
 				"description" : "High-res 3D boxes of over 700 games"
+			},
+			{
+				"url" : "https://myretrotvs.com/",
+				"title" : "My Retro TVs",
+				"description" : "Virtual TVs that simulate channel flipping from 50s to 00s"
 			}
 		]
 }
