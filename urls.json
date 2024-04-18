@@ -167,6 +167,11 @@
 				"url" : "https://myretrotvs.com/",
 				"title" : "My Retro TVs",
 				"description" : "Virtual TVs that simulate channel flipping from 50s to 00s"
+			},
+			{
+				"url" : "https://pict.chat/",
+				"title" : "PictoChat Online",
+				"description" : "An online version of NDS PictoChat"
 			}
 		]
 }
