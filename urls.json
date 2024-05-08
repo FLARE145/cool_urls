@@ -172,6 +172,11 @@
 				"url" : "https://pict.chat/",
 				"title" : "PictoChat Online",
 				"description" : "An online version of NDS PictoChat"
+			},
+			{
+				"url" : "https://meow.camera/",
+				"title" : "meow.camera",
+				"description" : "Explore and share chinese cat feeders"
 			}
 		]
 }

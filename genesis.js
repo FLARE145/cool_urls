@@ -142,7 +142,8 @@ function tagline(){
 		"Also try Terraria!",
 		"Because I kept forgetting them",
 		"Get them while they're hot... I mean cool",
-		"bLINK and you'll miss it"
+		"bLINK and you'll miss it",
+		"for procrastinators, by procrastinators"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
