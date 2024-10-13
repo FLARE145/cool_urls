@@ -143,7 +143,11 @@ function tagline(){
 		"Because I kept forgetting them",
 		"Get them while they're hot... I mean cool",
 		"bLINK and you'll miss it",
-		"for procrastinators, by procrastinators"
+		"for procrastinators, by procrastinators",
+		"Don't bring these to a knife fight",
+		"Busy on Halloween",
+		"Open 24/7",
+		"We get new ones every... sometimes"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };

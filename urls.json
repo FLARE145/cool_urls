@@ -93,6 +93,11 @@
 				"url" : "https://mitxela.com/pong/",
 				"title" : "WebRTC Pong",
 				"description" : "P2P Multiplayer Pong"
+			},
+			{
+				"url" : "https://classic.minecraft.net/",
+				"title" : "Minecraft Classic",
+				"description" : "Classic version of Minecraft that runs in the browser"
 			}
 		],
 	"toybox":
@@ -177,6 +182,11 @@
 				"url" : "https://meow.camera/",
 				"title" : "meow.camera",
 				"description" : "Explore and share chinese cat feeders"
+			},
+			{
+				"url" : "http://slowhotcomputer.com/",
+				"title" : "Slow Hot Computer",
+				"description" : "makes your computer run slow, so you can be less productive"
 			}
 		]
 }
