@@ -60,6 +60,11 @@
 				"url" : "https://doodad.dev/dither-me-this/",
 				"title" : "Dither Me This",
 				"description" : "Online Image Dithering Tool"
+			},
+			{
+				"url" : "https://torcado.com/cleanEdge/",
+				"title" : "cleanEdge",
+				"description" : "a pixel art upscaling algorithm for clean rotations"
 			}
 		],
 	"games":

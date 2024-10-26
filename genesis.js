@@ -147,7 +147,8 @@ function tagline(){
 		"Don't bring these to a knife fight",
 		"Busy on Halloween",
 		"Open 24/7",
-		"We get new ones every... sometimes"
+		"We get new ones every... sometimes",
+		"Some cooler than others"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
