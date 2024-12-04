@@ -64,7 +64,12 @@
 			{
 				"url" : "https://torcado.com/cleanEdge/",
 				"title" : "cleanEdge",
-				"description" : "a pixel art upscaling algorithm for clean rotations"
+				"description" : "A pixel art upscaling algorithm for clean rotations"
+			},
+			{
+				"url" : "https://theimageshare.com/",
+				"title" : "ImageShare",
+				"description" : "A web app for sending images and videos to another device"
 			}
 		],
 	"games":
@@ -139,6 +144,16 @@
 				"url" : "https://weedsoldiertf2.com/",
 				"title" : "Weed Soldier TF2",
 				"description" : "weedsoldiertf2.com"
+			},
+			{
+				"url" : "https://smokepowered.com/",
+				"title" : "Smokepowerd",
+				"description" : "\"Steam is the ultimate destination for smoking...\""
+			},
+			{
+				"url" : "https://epicblazed.com/",
+				"title" : "Epic Blazed",
+				"description" : "\"Welcome to Epic Blazed Plug!... Joints for everyone\""
 			}
 		],
 	"miscellaneous":
@@ -192,6 +207,11 @@
 				"url" : "http://slowhotcomputer.com/",
 				"title" : "Slow Hot Computer",
 				"description" : "makes your computer run slow, so you can be less productive"
+			},
+			{
+				"url" : "https://noclip.website/",
+				"title" : "noclip",
+				"description" : "A digital museum of video game levels"
 			}
 		]
 }

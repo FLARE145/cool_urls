@@ -148,7 +148,11 @@ function tagline(){
 		"Busy on Halloween",
 		"Open 24/7",
 		"We get new ones every... sometimes",
-		"Some cooler than others"
+		"Some cooler than others",
+		"Suprisingly does not a big fan of smoking",
+		"Universal peak-source locater",
+		"Cravings, meet Jack",
+		"The internet back roads"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
