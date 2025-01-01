@@ -152,7 +152,8 @@ function tagline(){
 		"Suprisingly does not a big fan of smoking",
 		"Universal peak-source locater",
 		"Cravings, meet Jack",
-		"The internet back roads"
+		"The internet back roads",
+		"HUH?"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };

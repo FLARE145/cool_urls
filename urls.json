@@ -212,6 +212,11 @@
 				"url" : "https://noclip.website/",
 				"title" : "noclip",
 				"description" : "A digital museum of video game levels"
+			},
+			{
+				"url" : "https://karlsims.com/rdtool.html",
+				"title" : "Reaction-Diffusion Explorer Tool",
+				"description" : "Web app for creating reaction-diffusion textures and patterns"
 			}
 		]
 }
