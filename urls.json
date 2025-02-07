@@ -217,6 +217,11 @@
 				"url" : "https://karlsims.com/rdtool.html",
 				"title" : "Reaction-Diffusion Explorer Tool",
 				"description" : "Web app for creating reaction-diffusion textures and patterns"
+			},
+			{
+				"url" : "https://mii.nxw.pw/",
+				"title" : "Mii Creator",
+				"description" : "Create and share Mii characters online with just a few clicks!"
 			}
 		]
 }

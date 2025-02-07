@@ -153,7 +153,8 @@ function tagline(){
 		"Universal peak-source locater",
 		"Cravings, meet Jack",
 		"The internet back roads",
-		"HUH?"
+		"HUH?",
+		"Perceive with caution"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
