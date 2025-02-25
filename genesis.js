@@ -154,7 +154,8 @@ function tagline(){
 		"Cravings, meet Jack",
 		"The internet back roads",
 		"HUH?",
-		"Perceive with caution"
+		"Perceive with caution",
+		"The first rule of cool-urls is you do not talk about cool-urls"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };

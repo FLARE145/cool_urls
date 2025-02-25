@@ -222,6 +222,11 @@
 				"url" : "https://mii.nxw.pw/",
 				"title" : "Mii Creator",
 				"description" : "Create and share Mii characters online with just a few clicks!"
+			},
+			{
+				"url" : "https://monkeytype.com/",
+				"title" : "Monkeytype",
+				"description" : "A minimalistic, customizable typing test"
 			}
 		]
 }
