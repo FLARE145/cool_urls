@@ -227,6 +227,11 @@
 				"url" : "https://monkeytype.com/",
 				"title" : "Monkeytype",
 				"description" : "A minimalistic, customizable typing test"
+			},
+			{
+				"url" : "https://simone.computer/bluerain/",
+				"title" : "Bluerain",
+				"description" : "A Matrix-Style Bluesky Firehose"
 			}
 		]
 }

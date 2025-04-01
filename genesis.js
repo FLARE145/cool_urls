@@ -155,7 +155,8 @@ function tagline(){
 		"The internet back roads",
 		"HUH?",
 		"Perceive with caution",
-		"The first rule of cool-urls is you do not talk about cool-urls"
+		"The first rule of cool-urls is you do not talk about cool-urls",
+		"You could also just guess some instead"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
