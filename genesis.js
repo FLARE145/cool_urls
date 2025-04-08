@@ -156,7 +156,8 @@ function tagline(){
 		"HUH?",
 		"Perceive with caution",
 		"The first rule of cool-urls is you do not talk about cool-urls",
-		"You could also just guess some instead"
+		"You could also just guess some instead",
+		"Welcome in!"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };

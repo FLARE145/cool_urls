@@ -70,6 +70,11 @@
 				"url" : "https://theimageshare.com/",
 				"title" : "ImageShare",
 				"description" : "A web app for sending images and videos to another device"
+			},
+			{
+				"url" : "https://rss-reader.dutl.uk/",
+				"title" : "Simple RSS Reader",
+				"description" : "Read your favorite RSS feeds easily with this client-side RSS reader"
 			}
 		],
 	"games":
