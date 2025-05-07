@@ -237,6 +237,11 @@
 				"url" : "https://simone.computer/bluerain/",
 				"title" : "Bluerain",
 				"description" : "A Matrix-Style Bluesky Firehose"
+			},
+			{
+				"url" : "https://awesomecars.neocities.org/",
+				"title" : "awesome cars v3",
+				"description" : "hosts many cars"
 			}
 		]
 }

@@ -157,7 +157,7 @@ function tagline(){
 		"Perceive with caution",
 		"The first rule of cool-urls is you do not talk about cool-urls",
 		"You could also just guess some instead",
-		"Welcome in!"
+		"on one particularly weird one"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
