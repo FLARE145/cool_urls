@@ -58,6 +58,10 @@ h3{
 	justify-content: space-between;
 }
 
+.entryTupper:nth-child(even) {
+    background-color: #223521;
+}
+
 .urlTupper{
 	width: 400px;
 	word-wrap: break-word;
