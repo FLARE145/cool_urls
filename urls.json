@@ -113,6 +113,11 @@
 				"url" : "https://classic.minecraft.net/",
 				"title" : "Minecraft Classic",
 				"description" : "Classic version of Minecraft that runs in the browser"
+			},
+			{
+				"url" : "https://isle.pizza/",
+				"title" : "Lego Island",
+				"description" : "Play classic 1997 PC game LEGO® Island in your web browser"
 			}
 		],
 	"toybox":
@@ -242,6 +247,11 @@
 				"url" : "https://awesomecars.neocities.org/",
 				"title" : "awesome cars v3",
 				"description" : "hosts many cars"
+			},
+			{
+				"url" : "https://philchute.com/",
+				"title" : "philchute.com",
+				"description" : "some interesting lists of games and other media"
 			}
 		]
 }
