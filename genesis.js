@@ -159,7 +159,8 @@ function tagline(){
 		"You could also just guess some instead",
 		"on one particularly weird one",
 		"everybody thank tholp for thinking he's such a cool guy suggesting the lines should alternate colors we get it you can't follow a line across a screen whatever dude",
-		"thank you and please come again!"
+		"thank you and please come again!",
+		"mraow"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
