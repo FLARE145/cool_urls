@@ -80,6 +80,11 @@
 				"url" : "https://onlinemarkdown.com/",
 				"title" : "Online Markdown Editor",
 				"description" : "Write and preview Markdown instantly"
+			},
+			{
+				"url" : "https://talkmodachi.dylanpdx.io/",
+				"title" : "Talkmodachi",
+				"description" : "Text to Speech Generator in the style of 'tomodachi games'"
 			}
 		],
 	"games":
