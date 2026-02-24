@@ -161,7 +161,8 @@ function tagline(){
 		"everybody thank tholp for thinking he's such a cool guy suggesting the lines should alternate colors we get it you can't follow a line across a screen whatever dude",
 		"thank you and please come again!",
 		"mraow",
-		"The way the web could be"
+		"The way the web could be",
+		"click and be amazed"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };

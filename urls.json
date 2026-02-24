@@ -262,6 +262,11 @@
 				"url" : "https://philchute.com/",
 				"title" : "philchute.com",
 				"description" : "some interesting lists of games and other media"
+			},
+			{
+				"url" : "https://www.gamedate.org/",
+				"title" : "GameDate",
+				"description" : "Schedule sessions for dead games, niche mods, and retro netplay"
 			}
 		]
 }
