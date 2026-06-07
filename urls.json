@@ -267,6 +267,11 @@
 				"url" : "https://www.gamedate.org/",
 				"title" : "GameDate",
 				"description" : "Schedule sessions for dead games, niche mods, and retro netplay"
+			},
+			{
+				"url" : "https://www.gameuidatabase.com/index.php",
+				"title" : "Game UI Database",
+				"description" : "References for Game UI designers. Over 55,000 UI screenshots"
 			}
 		]
 }

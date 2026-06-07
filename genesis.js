@@ -162,7 +162,9 @@ function tagline(){
 		"thank you and please come again!",
 		"mraow",
 		"The way the web could be",
-		"click and be amazed"
+		"click and be amazed",
+		"Open weekdays and weekends",
+		"with fantastic old url smell"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };
