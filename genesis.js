@@ -164,7 +164,8 @@ function tagline(){
 		"The way the web could be",
 		"click and be amazed",
 		"Open weekdays and weekends",
-		"with fantastic old url smell"
+		"with fantastic old url smell",
+		"take your time"
 	];
 	document.getElementById("tagline").innerHTML = taglines[Math.floor(Math.random() * taglines.length)];
 };

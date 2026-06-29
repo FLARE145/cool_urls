@@ -85,6 +85,11 @@
 				"url" : "https://talkmodachi.dylanpdx.io/",
 				"title" : "Talkmodachi",
 				"description" : "Text to Speech Generator in the style of 'tomodachi games'"
+			},
+			{
+				"url" : "https://jfsendit.com/",
+				"title" : "just f***ing send it",
+				"description" : "Send files directly over WebRTC. No upload, no server, no account."
 			}
 		],
 	"games":
